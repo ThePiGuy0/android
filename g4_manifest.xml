@@ -18,6 +18,6 @@
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="aoscp" />
   <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="lineage" />
   <project path="hardware/sony/thermanager" name="android_hardware_sony_thermanager" remote="lineage" />
-  <project path="device/qcom/common" name="android_hardware_qcom_common" remote="lineage" />
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="lineage" />
   
 </manifest>
