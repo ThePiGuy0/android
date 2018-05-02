@@ -7,7 +7,6 @@
   <remote  name="aoscp"
            fetch="https://github.com/CypherOS/"
            revision="oreo-mr1-release" />
-  <default revision="lineage-15.1" />
   
   <!-- Projects below -->
   
