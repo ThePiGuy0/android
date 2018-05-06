@@ -4,17 +4,17 @@
            fetch="https://github.com/thepiguy0/" />
   <remote  name="lineage"
            fetch="https://github.com/lineageOS/" />
-  <remote  name="aoscp"
-           fetch="https://github.com/CypherOS/"
-           revision="oreo-mr1-release" />
+  <remote  name="Suicide-Squirrel"
+           fetch="https://github.com/Suicide-Squirrel/"
+           revision="oreo-mr1-release_synced" />
   
   <!-- Projects below -->
   
   <project path="device/lge/h815" name="device_lge_h815" remote="thepiguy0" />
   <project path="device/lge/h811" name="device_lge_h811" remote="thepiguy0" />
   <project path="device/lge/g4-common" name="device_lge_g4-common" remote="thepiguy0" />
-  <project path="kernel/lge/msm8992" name="kernel_lge_msm8992" remote="thepiguy0" />
-  <project path="vendor/lge" name="proprietary_vendor_lge" remote="aoscp" />
+  <project path="kernel/lge/msm8992" name="Titan-Kernel-LG-G4" remote="Suicide-Squirrel" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="Suicide-Squirrel" />
   <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="lineage" />
   <project path="hardware/sony/thermanager" name="android_hardware_sony_thermanager" remote="lineage" />
   <project path="device/qcom/common" name="android_device_qcom_common" remote="lineage" />
